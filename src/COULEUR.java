@@ -1,0 +1,4 @@
+
+public enum COULEUR {
+	PIQUE, COEUR, CARREAUX, TREFLE
+}
